@@ -1,0 +1,7 @@
+C:\Users\erenb\source\repos\YemekSepetiKuponKontrol\YemekSepetiKuponKontrol\bin\Release\net5.0-windows\publish\YemekSepetiKuponKontrol.exe
+C:\Users\erenb\source\repos\YemekSepetiKuponKontrol\YemekSepetiKuponKontrol\bin\Release\net5.0-windows\publish\YemekSepetiKuponKontrol.dll
+C:\Users\erenb\source\repos\YemekSepetiKuponKontrol\YemekSepetiKuponKontrol\bin\Release\net5.0-windows\publish\YemekSepetiKuponKontrol.deps.json
+C:\Users\erenb\source\repos\YemekSepetiKuponKontrol\YemekSepetiKuponKontrol\bin\Release\net5.0-windows\publish\YemekSepetiKuponKontrol.runtimeconfig.json
+C:\Users\erenb\source\repos\YemekSepetiKuponKontrol\YemekSepetiKuponKontrol\bin\Release\net5.0-windows\publish\YemekSepetiKuponKontrol.pdb
+C:\Users\erenb\source\repos\YemekSepetiKuponKontrol\YemekSepetiKuponKontrol\bin\Release\net5.0-windows\publish\Newtonsoft.Json.dll
+C:\Users\erenb\source\repos\YemekSepetiKuponKontrol\YemekSepetiKuponKontrol\bin\Release\net5.0-windows\publish\WebDriver.dll

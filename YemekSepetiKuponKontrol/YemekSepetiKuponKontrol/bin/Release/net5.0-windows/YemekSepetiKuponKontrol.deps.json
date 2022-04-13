@@ -1,0 +1,68 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "YemekSepetiKuponKontrol/1.0.0": {
+        "dependencies": {
+          "Selenium.WebDriver": "4.1.0",
+          "Selenium.WebDriver.ChromeDriver": "100.0.4896.2000"
+        },
+        "runtime": {
+          "YemekSepetiKuponKontrol.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
+      "Selenium.WebDriver/4.1.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "lib/net5.0/WebDriver.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.0.0.0"
+          }
+        }
+      },
+      "Selenium.WebDriver.ChromeDriver/100.0.4896.2000": {}
+    }
+  },
+  "libraries": {
+    "YemekSepetiKuponKontrol/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
+    "Selenium.WebDriver/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-d4smisz4a/wJCM2TzkKTl+BLfvZUTvaobhKElDfCVZlvY8ThsC8VAoBNWTlg1H/GGzIP//yVGko/W0FILTgkYA==",
+      "path": "selenium.webdriver/4.1.0",
+      "hashPath": "selenium.webdriver.4.1.0.nupkg.sha512"
+    },
+    "Selenium.WebDriver.ChromeDriver/100.0.4896.2000": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-5FnNwsh/XjlIIpmVCnKNyrFCZCCw8hjzek0Wifuumhz+Xy5AifFVMPYJ/myP6SZfylkXhQFlDM2S5M9EHHvmRQ==",
+      "path": "selenium.webdriver.chromedriver/100.0.4896.2000",
+      "hashPath": "selenium.webdriver.chromedriver.100.0.4896.2000.nupkg.sha512"
+    }
+  }
+}

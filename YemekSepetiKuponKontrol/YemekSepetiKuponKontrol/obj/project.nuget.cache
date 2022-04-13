@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1MOi/NkwlCc672+SRq+wTQ0IZsoXAThItiXCNM0FlP0OkR2C9Y1Wq5lvFG2B9MbedVG5tUMNYaSi+a5Ymw0l4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\erenb\\source\\repos\\YemekSepetiKuponKontrol\\YemekSepetiKuponKontrol\\YemekSepetiKuponKontrol.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erenb\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\erenb\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\erenb\\.nuget\\packages\\selenium.webdriver.chromedriver\\100.0.4896.2000\\selenium.webdriver.chromedriver.100.0.4896.2000.nupkg.sha512"
+  ],
+  "logs": []
+}
